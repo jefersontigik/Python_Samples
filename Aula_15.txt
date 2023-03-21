@@ -98,14 +98,14 @@ Desenvolvimento Back-End
 
 ===========================================================
 
- - > Variáveis numéricas são variáveis que armazenam valores numéricos;
+ - > Definição: Variáveis numéricas são variáveis que armazenam valores numéricos;
 
- - > Tipos:
+ - > Tipos nativos:
 	- inteiros (int)
 	- decimais (float)
 	- complexos (complex) - Uso bem restrito.
 
- - > Combinando diferentes variáveis:
+ - > Operações: Combinando diferentes variáveis:
 	- Utilizando as 4 operações matemáticas;
 	- Divisão inteira (//);
 	- Potência ou exponenciação (**)
@@ -115,7 +115,7 @@ Desenvolvimento Back-End
 
  - > O Python encoraja a criação de códigos o menos verboso possível.
 
- - > 
+ - > Conversão: Converter tipos numéricos em outros tipos.
 
  - > Ver "3.1 Motivação"
 
