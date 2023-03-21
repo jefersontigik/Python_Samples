@@ -1,0 +1,147 @@
+===========================================================
+Desenvolvimento Back-End
+===========================================================
+
+ -- > "Introdução ao Google Colab": 
+
+===========================================================
+
+ - > Primeiro passos em Python;
+
+ - > Introdução ao Google Colab:
+
+	- Ferramenta Web autogerenciada de cadernos (Notebooks)
+
+	- Por ser uma ferramenta Web da Google, é necessário ter uma conta Google.
+
+	- Acesse o Google Colab pelo endereço: colab.research.google.com;
+
+	- Soluções autogerenciadas são aquelas que alguém providencia a
+	infraestrutura necessária para que se possa trabalhar.
+
+	- A Google fornece uma VM para podermos programar em Pytho. A máquina
+	virtual dura no máximo 12h.
+
+	- Após este período, a Google desprovisiona a máquina e tudo que havia lá,
+	será apagado. Mas há uma forma de salvar tudo para utiliazar novamente em
+	uma nova máquina virtual.
+
+	- Esse tipo de infra, garante que um mesmo código possa ser editado em
+	qualquer Sistema Operacional;
+
+	- Primeirao acesso ao Google Colab:
+		- Ao acessar o endereço, conecte-se à uma VM da Goolge (botão 			conectar), dessa forma, será alocada uma VM para seu trabalho.
+
+		- Observe os recursos que foram alocados à nova VM (Disco e RAM). 
+
+	- O Colab é uma ferramenta de Cadernos (Notebooks). Que  por sua vez, é um
+	documento Web, composto por um conjunto de elementos (células), que podem 
+	de texto ou código (Python).
+
+ - > Células de texto são aquelas que recebem um conjunto de carctere e que se
+ editar em vários momentos, utilizando o editor da própria ferramenta, quanto
+ outros editores de texto.
+
+ - > Células de códigos são utilizadas exclusivamente para edição de código Python
+
+ - > Praticando a criação e edição de uma célula: 
+
+	- Criando uma célula de texto;
+	- Criando uma célula de código;
+		- Função print();
+
+===========================================================
+
+ -- > "Variáveis":
+
+===========================================================
+
+ - > Conceito fundamental quando se trabalha com linguagem de programação.
+
+ - > Liguagem de programção nada mais é do que uma ferramenta de manipulação
+ de dados. Estes dados precisam sere armazenados em um local físico. Este 
+ local, chama-se memória RAM. Cada trecho da RAM utilizado para este fim,
+ chama-se variável.
+
+ - > Criando/declarando variáveis em Python:
+
+ - > Textos podem ser definidos em Python utilizando "" ou '';
+
+ - > Tipos nativos de dados:
+		- Tipos numéricos:
+			- int (Números naturais)
+			- float (Números reais)
+
+ - > Boas práticas para definição de variáveis:
+	- Nome da variável deve ser representativa:
+		preco --> preco_da_banana
+	- Nome de variáveis deve ser sempre se utiliza letras minúsculas
+
+ - > Função 'type':
+
+	- Utilizada para mostrar qual é o tipo da variável declarada.
+
+ - > Variáveis de texto String (str):
+	- Pode-se atribuir o valor à variável utilizando '' ou "".
+
+ - > Variável lógica (booleana):
+	- Variável que retorna dois valores (True / False)
+	- Ao declarar o nome de uma variável booleana, a variável assume o
+	nome em forma de pergunta: "usuario_maior_de_idade = True";
+
+ - > Variável do tipo vazio:
+	- A ausência de valor dentro de uma variável deve ser considerado também.
+
+===========================================================
+
+ -- > "Números":
+
+===========================================================
+
+ - > Variáveis numéricas são variáveis que armazenam valores numéricos;
+
+ - > Tipos:
+	- inteiros (int)
+	- decimais (float)
+	- complexos (complex) - Uso bem restrito.
+
+ - > Combinando diferentes variáveis:
+	- Utilizando as 4 operações matemáticas;
+	- Divisão inteira (//);
+	- Potência ou exponenciação (**)
+	- Resto de divisão (%) 
+
+ - > Preste atenção para não tornar o código muito "verboso" (nomes de variáveis que se repentem muitas vezes).
+
+ - > O Python encoraja a criação de códigos o menos verboso possível.
+
+ - > 
+
+ - > Ver "3.1 Motivação"
+
+===========================================================
+
+ - > "Strings":
+
+===========================================================
+
+ - > 
+
+===========================================================
+
+ - > "Booleanos":
+
+===========================================================
+
+ - > 
+
+===========================================================
+
+ - > "Exercícios":
+
+===========================================================
+
+ - > 
+
+===========================================================
+
